@@ -1,0 +1,37 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_*.png
+generated_plugin_registrant.dart
+
+# IntelliJ / Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+windows/flutter/ephemeral/
+
+# Linux
+linux/flutter/ephemeral/
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Android
+android/.gradle/
+android/app/*.iml
+android/local.properties
+android/**/GeneratedPluginRegistrant.java
